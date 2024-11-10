@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "706658142879",
+    "firebase_url": "https://lista-adaptada-android-studio-default-rtdb.firebaseio.com",
+    "project_id": "lista-adaptada-android-studio",
+    "storage_bucket": "lista-adaptada-android-studio.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:706658142879:android:cb0e9ab41126513d1cb0aa",
+        "android_client_info": {
+          "package_name": "com.example.adpatedlist"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKsxr9U_1Eb9PrXsUfCFgGNbGrDuuAMCg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
